@@ -1164,3 +1164,1535 @@ Continue: Skip saving this asset only.
 [2021.10.27-19.10.13:660][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.27-19.10.13:676][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
 [2021.10.27-19.10.13:703][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.10.27-19.11.23:528][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2021.10.27-19.11.27:445][614]SourceControl: Source control is disabled
+[2021.10.27-19.11.27:445][614]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.27-19.11.28:458][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.27-19.12.14:473][248]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.12.14:477][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.12.14:477][248]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:12:14 AM)
+[2021.10.27-19.12.14:499][248]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.12.14:508][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008633s)
+[2021.10.27-19.12.14:509][248]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.12.14:509][248]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2021.10.27-19.12.14:510][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010409s)
+[2021.10.27-19.12.14:533][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.27-19.12.14:534][248]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.12.14:534][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.12.14:534][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.12.14:535][248]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.12.14:535][248]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.12.14:537][248]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.12.14:537][248]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.12.14:546][248]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.12.14:546][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.12.14:546][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.12.14:546][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.12.14:546][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.12.14:546][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.12.14:546][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.12.14:557][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.12.14:557][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.12.14:557][248]LogInit: FAudioDevice initialized.
+[2021.10.27-19.12.14:557][248]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.12.14:563][248]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.12.14:565][248]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.12.14
+[2021.10.27-19.12.14:566][248]LogWorld: Bringing up level for play took: 0.001328
+[2021.10.27-19.12.14:566][248]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.27-19.12.14:566][248]PIE: Server logged in
+[2021.10.27-19.12.14:567][248]PIE: Play in editor total start time 0.091 seconds.
+[2021.10.27-19.12.19:629][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.12.19:630][848]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.12.19:630][848]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.12.19:630][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.12.19:638][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.12.19:652][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.12.19:668][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.12.19:668][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.12.19:669][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.12.19:681][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.12.19:683][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.10.27-19.12.19:706][849]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.27-19.15.06:698][644]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2021.10.27-19.16.57:604][537]BlueprintLog: New page: Compile TopDownController
+[2021.10.27-19.16.57:644][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.27-19.16.59:765][775]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.16.59:768][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.16.59:768][775]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:16:59 AM)
+[2021.10.27-19.16.59:790][775]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.16.59:798][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008352s)
+[2021.10.27-19.16.59:799][775]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.16.59:799][775]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2021.10.27-19.16.59:799][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009469s)
+[2021.10.27-19.16.59:823][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.10.27-19.16.59:824][775]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.16.59:824][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.16.59:824][775]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.16.59:824][775]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.16.59:827][775]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.16.59:827][775]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.16.59:835][775]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.16.59:836][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.16.59:836][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.16.59:836][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.16.59:836][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.16.59:836][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.16.59:836][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.16.59:847][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.16.59:847][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.16.59:847][775]LogInit: FAudioDevice initialized.
+[2021.10.27-19.16.59:847][775]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.16.59:856][775]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.16.59:859][775]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.16.59
+[2021.10.27-19.16.59:859][775]LogWorld: Bringing up level for play took: 0.001418
+[2021.10.27-19.16.59:859][775]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.10.27-19.16.59:861][775]PIE: Server logged in
+[2021.10.27-19.16.59:861][775]PIE: Play in editor total start time 0.094 seconds.
+[2021.10.27-19.17.05:820][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.17.05:820][473]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.17.05:820][473]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.17.05:821][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.17.05:826][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.17.05:839][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.17.05:857][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.17.05:857][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.17.05:857][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.17.05:870][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.17.05:872][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.27-19.17.05:896][474]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.27-19.17.10:658][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.10.27-19.17.10:675][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2021.10.27-19.17.10:695][ 15]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownControllerEC9D68044F6567188315C2803FD8D776.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2021.10.27-19.17.10:705][ 15]AssetCheck: New page: Asset Save: TopDownController
+[2021.10.27-19.17.10:705][ 15]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.10.27-19.17.13:024][286]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.17.13:027][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.17.13:027][286]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:17:13 AM)
+[2021.10.27-19.17.13:059][286]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.17.13:067][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007886s)
+[2021.10.27-19.17.13:068][286]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.17.13:068][286]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2021.10.27-19.17.13:068][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008872s)
+[2021.10.27-19.17.13:088][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.27-19.17.13:089][286]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.17.13:089][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.17.13:089][286]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.17.13:089][286]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.17.13:091][286]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.17.13:091][286]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.17.13:099][286]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.17.13:099][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.17.13:099][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.17.13:099][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.17.13:100][286]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.17.13:100][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.17.13:100][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.17.13:111][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.17.13:111][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.17.13:111][286]LogInit: FAudioDevice initialized.
+[2021.10.27-19.17.13:111][286]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.17.13:120][286]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.17.13:122][286]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.17.13
+[2021.10.27-19.17.13:122][286]LogWorld: Bringing up level for play took: 0.001326
+[2021.10.27-19.17.13:122][286]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.10.27-19.17.13:123][286]PIE: Server logged in
+[2021.10.27-19.17.13:124][286]PIE: Play in editor total start time 0.098 seconds.
+[2021.10.27-19.17.18:600][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.17.18:600][938]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.17.18:600][938]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.17.18:600][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.17.18:607][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.17.18:620][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.17.18:636][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.17.18:636][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.17.18:637][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.17.18:649][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.17.18:652][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.10.27-19.17.18:675][939]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.27-19.17.38:194][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2021.10.27-19.17.38:213][201]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownControllerE158659C4F315D1C23C18E961788FE13.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2021.10.27-19.17.38:222][201]AssetCheck: New page: Asset Save: TopDownController
+[2021.10.27-19.17.38:222][201]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.10.27-19.17.39:858][376]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.17.39:862][376]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.17.39:862][376]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.17.39:906][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.10.27-19.17.39:907][376]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2021.10.27-19.17.39:907][376]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:17:39 AM)
+[2021.10.27-19.17.39:907][376]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.17.39:915][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007961s)
+[2021.10.27-19.17.39:916][376]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.17.39:916][376]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2021.10.27-19.17.39:916][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009075s)
+[2021.10.27-19.17.39:937][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.27-19.17.39:937][376]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.27-19.17.39:937][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.17.39:937][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.17.39:937][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.17.39:937][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.17.39:937][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.17.39:937][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.17.39:938][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.17.39:938][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.17.39:938][376]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.17.39:938][376]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.17.39:940][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.17.39:940][376]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.17.39:948][376]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.17.39:948][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.17.39:948][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.17.39:948][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.17.39:949][376]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.17.39:949][376]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.17.39:949][376]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.17.39:960][376]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.17.39:960][376]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.17.39:960][376]LogInit: FAudioDevice initialized.
+[2021.10.27-19.17.39:960][376]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.17.39:965][376]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.17.39:967][376]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.17.39
+[2021.10.27-19.17.39:967][376]LogWorld: Bringing up level for play took: 0.001315
+[2021.10.27-19.17.39:967][376]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.27-19.17.39:969][376]PIE: Server logged in
+[2021.10.27-19.17.39:969][376]PIE: Play in editor total start time 0.109 seconds.
+[2021.10.27-19.17.42:820][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.17.42:820][706]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.17.42:821][706]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.17.42:821][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.17.42:826][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.17.42:839][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.17.42:856][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.17.42:856][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.17.42:857][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.17.42:871][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.27-19.17.42:894][707]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.27-19.18.10:313][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2021.10.27-19.18.10:333][965]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownController185A66654BEA02EEC0C99082DF91C936.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2021.10.27-19.18.10:341][965]AssetCheck: New page: Asset Save: TopDownController
+[2021.10.27-19.18.10:341][965]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.10.27-19.18.11:218][ 64]BlueprintLog: New page: Compile TopDownController
+[2021.10.27-19.18.11:255][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.10.27-19.18.12:643][215]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.18.12:647][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.18.12:647][215]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:18:12 AM)
+[2021.10.27-19.18.12:689][215]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.18.12:697][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008486s)
+[2021.10.27-19.18.12:698][215]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.18.12:698][215]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2021.10.27-19.18.12:698][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009458s)
+[2021.10.27-19.18.12:718][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.27-19.18.12:719][215]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.18.12:719][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.18.12:719][215]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.18.12:719][215]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.18.12:722][215]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.18.12:722][215]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.18.12:730][215]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.18.12:730][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.18.12:730][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.18.12:730][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.18.12:731][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.18.12:731][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.18.12:731][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.18.12:742][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.18.12:742][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.18.12:742][215]LogInit: FAudioDevice initialized.
+[2021.10.27-19.18.12:742][215]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.18.12:750][215]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.18.12:752][215]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.18.12
+[2021.10.27-19.18.12:752][215]LogWorld: Bringing up level for play took: 0.001313
+[2021.10.27-19.18.12:753][215]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.10.27-19.18.12:754][215]PIE: Server logged in
+[2021.10.27-19.18.12:755][215]PIE: Play in editor total start time 0.109 seconds.
+[2021.10.27-19.18.23:010][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.18.23:011][440]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.18.23:011][440]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.18.23:011][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.18.23:018][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.18.23:033][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.18.23:050][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.18.23:050][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.18.23:051][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.18.23:063][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.18.23:066][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.10.27-19.18.23:090][441]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.27-19.19.03:722][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2021.10.27-19.19.03:742][181]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownCharacter7616F1344E45B94ECCD94C809BD656CC.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.10.27-19.19.03:755][181]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.10.27-19.19.03:755][181]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.10.27-19.19.04:388][255]BlueprintLog: New page: Compile TopDownCharacter
+[2021.10.27-19.19.04:444][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.10.27-19.19.08:654][741]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.19.08:658][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.19.08:658][741]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:19:08 AM)
+[2021.10.27-19.19.08:658][741]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.19.08:666][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008191s)
+[2021.10.27-19.19.08:668][741]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.19.08:668][741]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2021.10.27-19.19.08:668][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009893s)
+[2021.10.27-19.19.08:691][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.10.27-19.19.08:692][741]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.19.08:692][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.19.08:692][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.19.08:693][741]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.19.08:693][741]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.19.08:695][741]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.19.08:695][741]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.19.08:703][741]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.19.08:704][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.19.08:704][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.19.08:704][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.19.08:704][741]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.19.08:704][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.19.08:704][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.19.08:704][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.19.08:705][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.19.08:705][741]LogInit: FAudioDevice initialized.
+[2021.10.27-19.19.08:705][741]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.19.08:718][741]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.19.08:721][741]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.19.08
+[2021.10.27-19.19.08:721][741]LogWorld: Bringing up level for play took: 0.001392
+[2021.10.27-19.19.08:721][741]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.27-19.19.08:722][741]PIE: Server logged in
+[2021.10.27-19.19.08:723][741]PIE: Play in editor total start time 0.066 seconds.
+[2021.10.27-19.19.32:440][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.19.32:440][567]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.19.32:440][567]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.19.32:440][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.19.32:450][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.19.32:465][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.19.32:482][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.19.32:483][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.19.32:483][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.19.32:496][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.19.32:498][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.27-19.19.32:521][568]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.27-19.20.40:775][375]BlueprintLog: New page: Compile TopDownController
+[2021.10.27-19.20.40:812][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.10.27-19.20.41:270][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2021.10.27-19.20.41:290][425]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownControllerDB27A7254C573DDF22FCACA6F283EEEB.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2021.10.27-19.20.41:303][425]AssetCheck: New page: Asset Save: TopDownController
+[2021.10.27-19.20.41:303][425]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.10.27-19.20.42:770][595]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.20.42:774][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.20.42:774][595]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:20:42 AM)
+[2021.10.27-19.20.42:810][595]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.20.42:818][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008230s)
+[2021.10.27-19.20.42:819][595]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.20.42:820][595]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2021.10.27-19.20.42:820][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010152s)
+[2021.10.27-19.20.42:844][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.10.27-19.20.42:844][595]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.20.42:844][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.20.42:844][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.20.42:845][595]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.20.42:845][595]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.20.42:847][595]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.20.42:847][595]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.20.42:855][595]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.20.42:855][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.20.42:855][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.20.42:855][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.20.42:855][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.20.42:855][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.20.42:855][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.20.42:867][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.20.42:867][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.20.42:867][595]LogInit: FAudioDevice initialized.
+[2021.10.27-19.20.42:867][595]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.20.42:873][595]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.20.42:875][595]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.20.42
+[2021.10.27-19.20.42:875][595]LogWorld: Bringing up level for play took: 0.001312
+[2021.10.27-19.20.42:876][595]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.27-19.20.42:877][595]PIE: Server logged in
+[2021.10.27-19.20.42:878][595]PIE: Play in editor total start time 0.105 seconds.
+[2021.10.27-19.20.58:220][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.20.58:220][429]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.20.58:220][429]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.20.58:220][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.20.58:229][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.20.58:244][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.20.58:262][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.20.58:262][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.20.58:263][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.20.58:275][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.20.58:277][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.27-19.20.58:302][430]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.27-19.21.02:673][954]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.10.27-19.21.15:018][411]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.10.27-19.21.50:048][531]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.21.50:053][531]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.21.50:056][531]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2021.10.27-19.21.50:059][531]LogBlueprint: Error: [AssetLog] D:\GroupProj\UnrealGroubB\GroupProj\Content\TopDownBP\Blueprints\TopDownCharacter.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2021.10.27-19.21.50:156][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.27-19.21.50:159][531]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2021.10.27-19.21.50:159][531]BlueprintLog: Warning: Blueprint failed to compile:  TopDownCharacter
+[2021.10.27-19.21.50:159][531]LogCustomDialog: Dialog displayed:
+[2021.10.27-19.21.54:000][531]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.10.27-19.21.57:199][895]BlueprintLog: New page: Compile TopDownCharacter
+[2021.10.27-19.21.57:203][895]LogBlueprint: Error: [AssetLog] D:\GroupProj\UnrealGroubB\GroupProj\Content\TopDownBP\Blueprints\TopDownCharacter.uasset: [Compiler] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2021.10.27-19.21.57:290][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.27-19.22.08:513][219]BlueprintLog: New page: Compile TopDownCharacter
+[2021.10.27-19.22.08:610][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.27-19.22.10:402][413]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.22.10:405][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.22.10:405][413]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:22:10 AM)
+[2021.10.27-19.22.10:450][413]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.22.10:460][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009953s)
+[2021.10.27-19.22.10:461][413]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.22.10:461][413]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2021.10.27-19.22.10:461][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011220s)
+[2021.10.27-19.22.10:485][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.27-19.22.10:485][413]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.22.10:485][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.22.10:485][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.22.10:486][413]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.22.10:486][413]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.22.10:488][413]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.22.10:488][413]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.22.10:497][413]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.22.10:497][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.22.10:497][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.22.10:497][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.22.10:497][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.22.10:497][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.22.10:497][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.22.10:508][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.22.10:508][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.22.10:508][413]LogInit: FAudioDevice initialized.
+[2021.10.27-19.22.10:508][413]LogAudio: Display: Audio Device (ID: 14) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.22.10:513][413]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.22.10:515][413]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.22.10
+[2021.10.27-19.22.10:516][413]LogWorld: Bringing up level for play took: 0.001338
+[2021.10.27-19.22.10:516][413]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.27-19.22.10:517][413]PIE: Server logged in
+[2021.10.27-19.22.10:518][413]PIE: Play in editor total start time 0.113 seconds.
+[2021.10.27-19.22.19:420][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.22.19:420][476]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.22.19:420][476]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.22.19:421][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.22.19:435][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.22.19:464][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.22.19:481][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.22.19:481][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.22.19:482][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.22.19:494][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.22.19:497][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.27-19.22.19:531][477]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.27-19.22.48:707][806]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.10.27-19.22.57:855][872]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.10.27-19.23.03:455][534]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.10.27-19.23.30:777][727]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.23.30:781][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.23.30:781][727]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:23:30 AM)
+[2021.10.27-19.23.30:810][727]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.23.30:818][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008477s)
+[2021.10.27-19.23.30:819][727]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.23.30:819][727]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2021.10.27-19.23.30:819][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009440s)
+[2021.10.27-19.23.30:841][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.10.27-19.23.30:845][727]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.23.30:846][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.23.30:846][727]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.23.30:846][727]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.23.30:848][727]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.23.30:848][727]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.23.30:856][727]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.23.30:857][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.23.30:857][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.23.30:857][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.23.30:857][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.23.30:857][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.23.30:857][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.23.30:868][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.23.30:868][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.23.30:868][727]LogInit: FAudioDevice initialized.
+[2021.10.27-19.23.30:868][727]LogAudio: Display: Audio Device (ID: 15) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.23.30:872][727]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.23.30:874][727]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.23.30
+[2021.10.27-19.23.30:874][727]LogWorld: Bringing up level for play took: 0.001345
+[2021.10.27-19.23.30:874][727]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.10.27-19.23.30:876][727]PIE: Server logged in
+[2021.10.27-19.23.30:876][727]PIE: Play in editor total start time 0.096 seconds.
+[2021.10.27-19.24.10:480][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.24.10:481][467]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.24.10:481][467]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.24.10:481][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.24.10:485][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.24.10:516][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.24.10:533][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.24.10:533][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.24.10:534][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.24.10:546][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.24.10:548][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.27-19.24.10:589][468]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.27-19.24.24:940][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2021.10.27-19.24.24:960][107]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownCharacter0741B5A440BBF0E6B98CFD86CFF20E66.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.10.27-19.24.24:971][107]AssetCheck: New page: Asset Save: TopDownCharacter
+[2021.10.27-19.24.24:971][107]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.10.27-19.24.25:712][187]BlueprintLog: New page: Compile TopDownCharacter
+[2021.10.27-19.24.25:760][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.27-19.24.27:307][358]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.24.27:310][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.24.27:310][358]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:24:27 AM)
+[2021.10.27-19.24.27:339][358]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.24.27:348][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008615s)
+[2021.10.27-19.24.27:348][358]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.24.27:349][358]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2021.10.27-19.24.27:349][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009735s)
+[2021.10.27-19.24.27:370][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.27-19.24.27:371][358]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.24.27:371][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.24.27:371][358]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.24.27:371][358]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.24.27:373][358]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.24.27:373][358]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.24.27:382][358]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.24.27:382][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.24.27:382][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.24.27:382][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.24.27:382][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.24.27:382][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.24.27:382][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.24.27:383][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.24.27:383][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.24.27:383][358]LogInit: FAudioDevice initialized.
+[2021.10.27-19.24.27:383][358]LogAudio: Display: Audio Device (ID: 16) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.24.27:397][358]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.24.27:399][358]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.24.27
+[2021.10.27-19.24.27:399][358]LogWorld: Bringing up level for play took: 0.001360
+[2021.10.27-19.24.27:399][358]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.27-19.24.27:401][358]PIE: Server logged in
+[2021.10.27-19.24.27:402][358]PIE: Play in editor total start time 0.092 seconds.
+[2021.10.27-19.24.34:681][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.24.34:681][225]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.24.34:681][225]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.24.34:682][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.24.34:690][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.24.34:722][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.24.34:739][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.24.34:739][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.24.34:740][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.24.34:753][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.24.34:756][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.27-19.24.34:793][226]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.27-19.25.27:567][423]BlueprintLog: New page: Compile TopDownController
+[2021.10.27-19.25.27:605][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.27-19.25.28:917][563]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.25.28:921][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.25.28:921][563]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:25:28 AM)
+[2021.10.27-19.25.28:950][563]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.25.28:958][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007973s)
+[2021.10.27-19.25.28:959][563]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.25.28:959][563]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2021.10.27-19.25.28:959][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009093s)
+[2021.10.27-19.25.28:980][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.27-19.25.28:981][563]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.25.28:981][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.25.28:981][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.25.28:982][563]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.25.28:982][563]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.25.28:984][563]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.25.28:984][563]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.25.28:992][563]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.25.28:993][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.25.28:993][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.25.28:993][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.25.28:993][563]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.25.28:993][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.25.28:993][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.25.29:004][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.25.29:004][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.25.29:004][563]LogInit: FAudioDevice initialized.
+[2021.10.27-19.25.29:004][563]LogAudio: Display: Audio Device (ID: 17) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.25.29:012][563]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.25.29:014][563]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.25.29
+[2021.10.27-19.25.29:014][563]LogWorld: Bringing up level for play took: 0.001441
+[2021.10.27-19.25.29:015][563]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.10.27-19.25.29:016][563]PIE: Server logged in
+[2021.10.27-19.25.29:017][563]PIE: Play in editor total start time 0.096 seconds.
+[2021.10.27-19.25.41:270][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.25.41:270][ 27]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.25.41:270][ 27]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.25.41:270][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.25.41:280][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.25.41:310][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.25.41:327][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.25.41:328][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.25.41:328][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.25.41:341][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.25.41:344][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.27-19.25.41:380][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.27-19.26.06:241][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.27-19.26.06:260][956]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownExampleMap_Auto2E0B8A820406E44CD5C3C74867E0A8E9A.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2021.10.27-19.26.06:260][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.037
+[2021.10.27-19.26.06:260][956]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.10.27-19.26.06:260][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2021.10.27-19.26.06:260][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2021.10.27-19.26.06:281][956]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownController_Auto27FAA5A4E46575E001AF0ACB9CA57D572.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto2.uasset'
+[2021.10.27-19.26.06:282][956]LogFileHelpers: Auto-saving content packages took 0.022
+[2021.10.27-19.26.46:095][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Bullet.Bullet
+[2021.10.27-19.27.16:090][ 63]BlueprintLog: New page: Compile TopDownCharacter
+[2021.10.27-19.27.16:134][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.27-19.27.17:791][250]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.27.17:795][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.27.17:795][250]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:27:17 AM)
+[2021.10.27-19.27.17:840][250]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.27.17:850][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010196s)
+[2021.10.27-19.27.17:851][250]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.27.17:851][250]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2021.10.27-19.27.17:851][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011516s)
+[2021.10.27-19.27.17:875][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.10.27-19.27.17:876][250]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.27.17:876][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.27.17:876][250]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.27.17:876][250]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.27.17:878][250]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.27.17:878][250]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.27.17:888][250]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.27.17:888][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.27.17:888][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.27.17:888][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.27.17:888][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.27.17:888][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.27.17:888][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.27.17:900][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.27.17:900][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.27.17:900][250]LogInit: FAudioDevice initialized.
+[2021.10.27-19.27.17:900][250]LogAudio: Display: Audio Device (ID: 18) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.27.17:905][250]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.27.17:907][250]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.27.17
+[2021.10.27-19.27.17:907][250]LogWorld: Bringing up level for play took: 0.001329
+[2021.10.27-19.27.17:907][250]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.10.27-19.27.17:908][250]PIE: Server logged in
+[2021.10.27-19.27.17:909][250]PIE: Play in editor total start time 0.116 seconds.
+[2021.10.27-19.27.22:231][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.27.22:231][760]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.27.22:231][760]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.27.22:231][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.27.22:244][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.27.22:281][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.27.22:299][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.27.22:299][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.27.22:300][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.27.22:312][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.27.22:315][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.10.27-19.27.22:350][761]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.10.27-19.27.32:469][973]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.10.27-19.27.33:449][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.27-19.27.59:927][183]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.27.59:931][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.27.59:931][183]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:27:59 AM)
+[2021.10.27-19.27.59:970][183]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.27.59:981][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011107s)
+[2021.10.27-19.27.59:982][183]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.27.59:982][183]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2021.10.27-19.27.59:982][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012531s)
+[2021.10.27-19.28.00:006][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.27-19.28.00:008][183]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.10.27-19.28.00:008][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.28.00:008][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.28.00:008][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.28.00:008][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.28.00:008][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.28.00:009][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.28.00:009][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.28.00:009][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.28.00:009][183]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.28.00:009][183]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.28.00:012][183]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.28.00:012][183]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.28.00:020][183]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.28.00:020][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.28.00:020][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.28.00:020][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.28.00:021][183]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.28.00:021][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.28.00:021][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.28.00:032][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.28.00:032][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.28.00:032][183]LogInit: FAudioDevice initialized.
+[2021.10.27-19.28.00:032][183]LogAudio: Display: Audio Device (ID: 19) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.28.00:039][183]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.28.00:041][183]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.28.00
+[2021.10.27-19.28.00:041][183]LogWorld: Bringing up level for play took: 0.001378
+[2021.10.27-19.28.00:041][183]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.10.27-19.28.00:107][183]PIE: Server logged in
+[2021.10.27-19.28.00:108][183]PIE: Play in editor total start time 0.178 seconds.
+[2021.10.27-19.28.08:291][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.08:291][156]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.08:291][156]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.28.08:291][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.08:302][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.28.08:315][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.08:334][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.27-19.28.08:334][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.08:336][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.08:347][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.08:349][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.10.27-19.28.08:374][157]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.10.27-19.28.09:994][343]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.28.09:998][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.28.09:998][343]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:28:09 AM)
+[2021.10.27-19.28.10:020][343]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.10:028][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008063s)
+[2021.10.27-19.28.10:029][343]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.28.10:029][343]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2021.10.27-19.28.10:029][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009547s)
+[2021.10.27-19.28.10:051][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.10.27-19.28.10:053][343]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.28.10:053][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.28.10:053][343]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.28.10:053][343]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.28.10:055][343]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.28.10:055][343]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.28.10:064][343]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.28.10:064][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.28.10:064][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.28.10:064][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.28.10:064][343]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.28.10:064][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.28.10:064][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.28.10:075][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.28.10:075][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.28.10:075][343]LogInit: FAudioDevice initialized.
+[2021.10.27-19.28.10:075][343]LogAudio: Display: Audio Device (ID: 20) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.28.10:084][343]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.28.10:086][343]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.28.10
+[2021.10.27-19.28.10:086][343]LogWorld: Bringing up level for play took: 0.001327
+[2021.10.27-19.28.10:086][343]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.10.27-19.28.10:087][343]PIE: Server logged in
+[2021.10.27-19.28.10:088][343]PIE: Play in editor total start time 0.092 seconds.
+[2021.10.27-19.28.14:641][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.14:641][883]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.14:641][883]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.28.14:641][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.14:652][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.28.14:666][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.14:686][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.14:686][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.14:687][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.14:702][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.10.27-19.28.14:726][884]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.10.27-19.28.15:752][996]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.28.15:756][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.28.15:756][996]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:28:15 AM)
+[2021.10.27-19.28.15:779][996]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.15:787][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008017s)
+[2021.10.27-19.28.15:788][996]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.28.15:788][996]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2021.10.27-19.28.15:788][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009041s)
+[2021.10.27-19.28.15:810][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.10.27-19.28.15:811][996]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.28.15:811][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.28.15:811][996]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.28.15:811][996]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.28.15:813][996]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.28.15:813][996]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.28.15:822][996]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.28.15:822][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.28.15:822][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.28.15:822][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.28.15:822][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.28.15:822][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.28.15:822][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.28.15:834][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.28.15:834][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.28.15:834][996]LogInit: FAudioDevice initialized.
+[2021.10.27-19.28.15:834][996]LogAudio: Display: Audio Device (ID: 21) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.28.15:841][996]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.28.15:843][996]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.28.15
+[2021.10.27-19.28.15:843][996]LogWorld: Bringing up level for play took: 0.001355
+[2021.10.27-19.28.15:843][996]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.10.27-19.28.15:845][996]PIE: Server logged in
+[2021.10.27-19.28.15:846][996]PIE: Play in editor total start time 0.09 seconds.
+[2021.10.27-19.28.38:110][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.38:110][661]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.38:111][661]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.28.38:111][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.38:119][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.28.38:132][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.38:150][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.38:151][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.38:151][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.38:166][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.10.27-19.28.38:189][662]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.10.27-19.28.40:654][953]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.28.40:657][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.28.40:657][953]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:28:40 AM)
+[2021.10.27-19.28.40:658][953]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.40:665][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007855s)
+[2021.10.27-19.28.40:667][953]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.28.40:667][953]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2021.10.27-19.28.40:667][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009666s)
+[2021.10.27-19.28.40:691][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.27-19.28.40:692][953]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.28.40:692][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.28.40:692][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.28.40:693][953]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.28.40:693][953]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.28.40:695][953]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.28.40:695][953]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.28.40:704][953]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.28.40:704][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.28.40:704][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.28.40:704][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.28.40:704][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.28.40:704][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.28.40:704][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.28.40:715][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.28.40:715][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.28.40:715][953]LogInit: FAudioDevice initialized.
+[2021.10.27-19.28.40:715][953]LogAudio: Display: Audio Device (ID: 22) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.28.40:721][953]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.28.40:723][953]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.28.40
+[2021.10.27-19.28.40:723][953]LogWorld: Bringing up level for play took: 0.001319
+[2021.10.27-19.28.40:723][953]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.10.27-19.28.40:725][953]PIE: Server logged in
+[2021.10.27-19.28.40:725][953]PIE: Play in editor total start time 0.069 seconds.
+[2021.10.27-19.28.43:401][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.43:401][259]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.43:401][259]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.28.43:401][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.43:413][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.28.43:429][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.28.43:448][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.28.43:448][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.43:449][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.28.43:463][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.27-19.28.43:489][260]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.10.27-19.28.44:503][377]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.28.44:507][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.28.44:507][377]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:28:44 AM)
+[2021.10.27-19.28.44:507][377]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.28.44:515][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008044s)
+[2021.10.27-19.28.44:516][377]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.28.44:516][377]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2021.10.27-19.28.44:516][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008985s)
+[2021.10.27-19.28.44:537][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.27-19.28.44:538][377]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.28.44:538][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.28.44:538][377]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.28.44:538][377]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.28.44:540][377]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.28.44:540][377]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.28.44:549][377]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.28.44:550][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.28.44:550][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.28.44:550][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.28.44:550][377]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.28.44:550][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.28.44:550][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.28.44:560][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.28.44:560][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.28.44:560][377]LogInit: FAudioDevice initialized.
+[2021.10.27-19.28.44:560][377]LogAudio: Display: Audio Device (ID: 23) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.28.44:570][377]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.28.44:572][377]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.28.44
+[2021.10.27-19.28.44:573][377]LogWorld: Bringing up level for play took: 0.001366
+[2021.10.27-19.28.44:573][377]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.10.27-19.28.44:574][377]PIE: Server logged in
+[2021.10.27-19.28.44:575][377]PIE: Play in editor total start time 0.069 seconds.
+[2021.10.27-19.29.57:290][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.29.57:290][ 73]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.29.57:290][ 73]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.29.57:291][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.29.57:299][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.29.57:312][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.29.57:331][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.29.57:331][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.29.57:332][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.29.57:347][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.10.27-19.29.57:376][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.10.27-19.30.34:210][369]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.30.34:213][369]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.30.34:214][369]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.30.34:259][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.10.27-19.30.34:259][369]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2021.10.27-19.30.34:259][369]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:30:34 AM)
+[2021.10.27-19.30.34:260][369]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.30.34:267][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007832s)
+[2021.10.27-19.30.34:269][369]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.30.34:269][369]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2021.10.27-19.30.34:269][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009865s)
+[2021.10.27-19.30.34:294][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.10.27-19.30.34:295][369]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.30.34:295][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.30.34:295][369]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.30.34:295][369]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.30.34:298][369]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.30.34:298][369]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.30.34:305][369]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.30.34:305][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.30.34:306][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.30.34:306][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.30.34:306][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.30.34:306][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.30.34:306][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.30.34:317][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.30.34:317][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.30.34:317][369]LogInit: FAudioDevice initialized.
+[2021.10.27-19.30.34:317][369]LogAudio: Display: Audio Device (ID: 24) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.30.34:370][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.30.34:370][369]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.30.34:373][369]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.30.34
+[2021.10.27-19.30.34:373][369]LogWorld: Bringing up level for play took: 0.001812
+[2021.10.27-19.30.34:373][369]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.10.27-19.30.34:375][369]PIE: Server logged in
+[2021.10.27-19.30.34:376][369]PIE: Play in editor total start time 0.163 seconds.
+[2021.10.27-19.30.34:407][370]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.10.27-19.30.49:991][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.30.49:991][233]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.30.49:991][233]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.30.49:996][233]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.30.49:997][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.30.50:005][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.30.50:019][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.30.50:037][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.30.50:038][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.30.50:053][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.10.27-19.30.50:067][234]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.10.27-19.31.20:595][866]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.31.20:600][866]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.31.20:600][866]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.31.20:644][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.27-19.31.20:645][866]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2021.10.27-19.31.20:645][866]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:31:20 AM)
+[2021.10.27-19.31.20:645][866]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.31.20:653][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008021s)
+[2021.10.27-19.31.20:654][866]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.31.20:655][866]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2021.10.27-19.31.20:655][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009737s)
+[2021.10.27-19.31.20:678][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.27-19.31.20:679][866]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.31.20:679][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.31.20:679][866]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.31.20:679][866]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.31.20:682][866]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.31.20:682][866]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.31.20:690][866]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.31.20:690][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.31.20:691][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.31.20:691][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.31.20:691][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.31.20:691][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.31.20:691][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.31.20:701][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.31.20:701][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.31.20:701][866]LogInit: FAudioDevice initialized.
+[2021.10.27-19.31.20:701][866]LogAudio: Display: Audio Device (ID: 25) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.31.20:756][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.31.20:757][866]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.31.20:759][866]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.31.20
+[2021.10.27-19.31.20:760][866]LogWorld: Bringing up level for play took: 0.001859
+[2021.10.27-19.31.20:760][866]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.10.27-19.31.20:762][866]PIE: Server logged in
+[2021.10.27-19.31.20:762][866]PIE: Play in editor total start time 0.164 seconds.
+[2021.10.27-19.31.24:712][337]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.31.24:718][337]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.31.24:740][337]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.31.24:740][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.31.24:750][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.31.24:763][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.31.24:782][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.31.24:783][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.31.24:798][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.10.27-19.31.24:819][339]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.10.27-19.31.26:425][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2021.10.27-19.31.26:446][509]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownController1189DF0E4DECD0A417734381A6DABFA8.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2021.10.27-19.31.26:458][509]AssetCheck: New page: Asset Save: TopDownController
+[2021.10.27-19.31.26:458][509]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.10.27-19.31.27:920][676]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.31.27:923][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.31.27:924][676]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:31:27 AM)
+[2021.10.27-19.31.27:924][676]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.31.27:932][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007939s)
+[2021.10.27-19.31.27:932][676]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.31.27:933][676]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2021.10.27-19.31.27:933][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008943s)
+[2021.10.27-19.31.27:956][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.10.27-19.31.27:956][676]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.31.27:956][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.31.27:956][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.31.27:957][676]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.31.27:957][676]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.31.27:959][676]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.31.27:959][676]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.31.27:967][676]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.31.27:967][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.31.27:967][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.31.27:967][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.31.27:968][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.31.27:968][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.31.27:968][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.31.27:979][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.31.27:979][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.31.27:979][676]LogInit: FAudioDevice initialized.
+[2021.10.27-19.31.27:979][676]LogAudio: Display: Audio Device (ID: 26) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.31.28:023][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.31.28:023][676]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.31.28:025][676]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.31.28
+[2021.10.27-19.31.28:026][676]LogWorld: Bringing up level for play took: 0.001649
+[2021.10.27-19.31.28:026][676]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.10.27-19.31.28:028][676]PIE: Server logged in
+[2021.10.27-19.31.28:029][676]PIE: Play in editor total start time 0.106 seconds.
+[2021.10.27-19.31.33:938][382]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.31.33:944][382]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.31.33:969][382]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.31.33:970][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.31.33:978][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.31.33:991][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.31.34:010][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.31.34:011][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.31.34:026][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.27-19.31.34:040][383]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.10.27-19.31.55:097][844]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.31.55:100][844]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.31.55:101][844]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.31.55:144][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.10.27-19.31.55:145][844]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2021.10.27-19.31.55:145][844]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:31:55 AM)
+[2021.10.27-19.31.55:145][844]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.31.55:153][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008164s)
+[2021.10.27-19.31.55:155][844]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.31.55:155][844]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2021.10.27-19.31.55:155][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010023s)
+[2021.10.27-19.31.55:179][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.27-19.31.55:180][844]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.31.55:180][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.31.55:180][844]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.31.55:180][844]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.31.55:183][844]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.31.55:183][844]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.31.55:191][844]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.31.55:191][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.31.55:191][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.31.55:191][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.31.55:191][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.31.55:191][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.31.55:191][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.31.55:203][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.31.55:203][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.31.55:203][844]LogInit: FAudioDevice initialized.
+[2021.10.27-19.31.55:203][844]LogAudio: Display: Audio Device (ID: 27) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.31.55:262][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.31.55:262][844]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.31.55:264][844]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.31.55
+[2021.10.27-19.31.55:264][844]LogWorld: Bringing up level for play took: 0.001692
+[2021.10.27-19.31.55:264][844]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.10.27-19.31.55:266][844]PIE: Server logged in
+[2021.10.27-19.31.55:267][844]PIE: Play in editor total start time 0.167 seconds.
+[2021.10.27-19.32.05:245][ 38]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.32.05:251][ 38]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.32.05:300][ 38]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.32.05:300][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.32.05:312][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.32.05:331][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.32.05:357][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.32.05:358][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.32.05:374][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.10.27-19.32.05:387][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.10.27-19.36.20:453][179]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.36.20:457][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.36.20:457][179]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:36:20 AM)
+[2021.10.27-19.36.20:457][179]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.36.20:466][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008722s)
+[2021.10.27-19.36.20:467][179]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.36.20:467][179]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2021.10.27-19.36.20:467][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009653s)
+[2021.10.27-19.36.20:492][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.27-19.36.20:493][179]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.36.20:493][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.36.20:493][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.36.20:494][179]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.36.20:494][179]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.36.20:496][179]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.36.20:496][179]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.36.20:505][179]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.36.20:505][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.36.20:506][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.36.20:506][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.36.20:506][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.36.20:506][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.36.20:506][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.36.20:517][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.36.20:517][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.36.20:517][179]LogInit: FAudioDevice initialized.
+[2021.10.27-19.36.20:517][179]LogAudio: Display: Audio Device (ID: 28) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.36.20:585][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.36.20:586][179]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.36.20:596][179]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.36.20
+[2021.10.27-19.36.20:596][179]LogWorld: Bringing up level for play took: 0.007520
+[2021.10.27-19.36.20:597][179]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.10.27-19.36.20:603][179]PIE: Server logged in
+[2021.10.27-19.36.20:604][179]PIE: Play in editor total start time 0.147 seconds.
+[2021.10.27-19.36.32:871][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.36.32:871][642]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.36.32:871][642]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.36.32:876][642]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.36.32:877][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.36.32:883][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.36.32:897][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.36.32:916][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.36.32:917][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.36.32:932][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.10.27-19.36.32:945][643]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.10.27-19.38.44:363][870]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.38.44:367][870]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.38.44:368][870]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.38.44:417][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.10.27-19.38.44:418][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2021.10.27-19.38.44:418][870]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:38:44 AM)
+[2021.10.27-19.38.44:418][870]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.38.44:427][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008986s)
+[2021.10.27-19.38.44:428][870]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.38.44:428][870]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2021.10.27-19.38.44:429][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010656s)
+[2021.10.27-19.38.44:456][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.10.27-19.38.44:457][870]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.38.44:457][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.38.44:457][870]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.38.44:457][870]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.38.44:459][870]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.38.44:459][870]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.38.44:468][870]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.38.44:468][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.38.44:468][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.38.44:468][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.38.44:469][870]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.38.44:469][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.38.44:469][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.38.44:480][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.38.44:480][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.38.44:480][870]LogInit: FAudioDevice initialized.
+[2021.10.27-19.38.44:480][870]LogAudio: Display: Audio Device (ID: 29) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.38.44:530][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.38.44:531][870]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.38.44:533][870]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.38.44
+[2021.10.27-19.38.44:533][870]LogWorld: Bringing up level for play took: 0.001905
+[2021.10.27-19.38.44:533][870]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.10.27-19.38.44:536][870]PIE: Server logged in
+[2021.10.27-19.38.44:536][870]PIE: Play in editor total start time 0.169 seconds.
+[2021.10.27-19.39.13:661][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.39.13:661][351]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.39.13:662][351]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.39.13:667][351]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.39.13:668][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.39.13:674][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.39.13:689][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.39.13:708][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.39.13:709][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.39.13:725][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.10.27-19.39.13:741][352]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.10.27-19.39.19:297][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.39.19:301][  9]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.39.19:302][  9]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.39.19:350][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.10.27-19.39.19:350][  9]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2021.10.27-19.39.19:350][  9]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:39:19 AM)
+[2021.10.27-19.39.19:350][  9]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.39.19:358][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007928s)
+[2021.10.27-19.39.19:359][  9]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.39.19:359][  9]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2021.10.27-19.39.19:360][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009415s)
+[2021.10.27-19.39.19:390][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.10.27-19.39.19:391][  9]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.39.19:391][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.39.19:391][  9]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.39.19:391][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.39.19:393][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.39.19:393][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.39.19:402][  9]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.39.19:402][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.39.19:402][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.39.19:402][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.39.19:403][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.39.19:403][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.39.19:403][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.39.19:414][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.39.19:414][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.39.19:414][  9]LogInit: FAudioDevice initialized.
+[2021.10.27-19.39.19:414][  9]LogAudio: Display: Audio Device (ID: 30) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.39.19:470][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.39.19:470][  9]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.39.19:472][  9]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.39.19
+[2021.10.27-19.39.19:472][  9]LogWorld: Bringing up level for play took: 0.001710
+[2021.10.27-19.39.19:472][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.10.27-19.39.19:475][  9]PIE: Server logged in
+[2021.10.27-19.39.19:475][  9]PIE: Play in editor total start time 0.175 seconds.
+[2021.10.27-19.39.52:520][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.39.52:520][961]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.39.52:521][961]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.39.52:527][961]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.39.52:527][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.39.52:536][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.39.52:550][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.39.52:569][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.39.52:570][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.39.52:584][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.27-19.39.52:599][962]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.10.27-19.40.38:328][303]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.40.38:331][303]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.27-19.40.38:332][303]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2021.10.27-19.40.38:378][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.10.27-19.40.38:379][303]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2021.10.27-19.40.38:379][303]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:40:38 AM)
+[2021.10.27-19.40.38:379][303]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.40.38:389][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009949s)
+[2021.10.27-19.40.38:391][303]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.40.38:391][303]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2021.10.27-19.40.38:391][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011777s)
+[2021.10.27-19.40.38:420][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.10.27-19.40.38:420][303]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.10.27-19.40.38:420][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.40.38:420][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.40.38:420][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.40.38:420][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.40.38:421][303]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.40.38:421][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.40.38:421][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.40.38:421][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.40.38:421][303]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.40.38:421][303]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.40.38:423][303]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.40.38:423][303]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.40.38:432][303]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.40.38:432][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.40.38:432][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.40.38:432][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.40.38:432][303]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.40.38:432][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.40.38:432][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.40.38:443][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.40.38:443][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.40.38:443][303]LogInit: FAudioDevice initialized.
+[2021.10.27-19.40.38:443][303]LogAudio: Display: Audio Device (ID: 31) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.40.38:486][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.40.38:487][303]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.40.38:489][303]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.40.38
+[2021.10.27-19.40.38:489][303]LogWorld: Bringing up level for play took: 0.001640
+[2021.10.27-19.40.38:489][303]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.10.27-19.40.38:492][303]PIE: Server logged in
+[2021.10.27-19.40.38:492][303]PIE: Play in editor total start time 0.162 seconds.
+[2021.10.27-19.40.52:611][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.40.52:611][982]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.40.52:611][982]LogSlate: Window 'GroupProj Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.27-19.40.52:617][982]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.40.52:617][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.40.52:623][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.40.52:638][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.40.52:657][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.40.52:658][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.40.52:672][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.27-19.40.52:685][983]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.10.27-19.42.16:528][607]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.42.16:532][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.42.16:532][607]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:42:16 AM)
+[2021.10.27-19.42.16:560][607]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.42.16:569][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008370s)
+[2021.10.27-19.42.16:570][607]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.42.16:570][607]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2021.10.27-19.42.16:570][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009630s)
+[2021.10.27-19.42.16:596][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.10.27-19.42.16:599][607]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.42.16:599][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.42.16:599][607]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.42.16:599][607]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.42.16:602][607]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.42.16:602][607]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.42.16:610][607]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.42.16:610][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.42.16:611][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.42.16:611][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.42.16:611][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.42.16:611][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.42.16:611][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.42.16:623][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.42.16:623][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.42.16:623][607]LogInit: FAudioDevice initialized.
+[2021.10.27-19.42.16:623][607]LogAudio: Display: Audio Device (ID: 32) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.42.16:628][607]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.42.16:630][607]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.42.16
+[2021.10.27-19.42.16:631][607]LogWorld: Bringing up level for play took: 0.001575
+[2021.10.27-19.42.16:631][607]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.10.27-19.42.16:632][607]PIE: Server logged in
+[2021.10.27-19.42.16:633][607]PIE: Play in editor total start time 0.101 seconds.
+[2021.10.27-19.42.38:091][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.42.38:091][152]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.42.38:091][152]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.42.38:092][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.42.38:111][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.42.38:127][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.42.38:148][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.42.38:148][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.42.38:149][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.42.38:165][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.10.27-19.42.38:195][153]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.10.27-19.42.51:427][706]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.42.51:431][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.42.51:431][706]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:42:51 AM)
+[2021.10.27-19.42.51:431][706]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.42.51:439][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007854s)
+[2021.10.27-19.42.51:440][706]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.42.51:440][706]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2021.10.27-19.42.51:440][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009003s)
+[2021.10.27-19.42.51:463][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.10.27-19.42.51:465][706]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.42.51:465][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.42.51:465][706]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.42.51:465][706]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.42.51:468][706]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.42.51:469][706]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.42.51:477][706]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.42.51:477][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.42.51:477][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.42.51:477][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.42.51:477][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.42.51:477][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.42.51:477][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.42.51:478][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.42.51:478][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.42.51:478][706]LogInit: FAudioDevice initialized.
+[2021.10.27-19.42.51:478][706]LogAudio: Display: Audio Device (ID: 33) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.42.51:493][706]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.42.51:495][706]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.42.51
+[2021.10.27-19.42.51:495][706]LogWorld: Bringing up level for play took: 0.001416
+[2021.10.27-19.42.51:495][706]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.10.27-19.42.51:497][706]PIE: Server logged in
+[2021.10.27-19.42.51:498][706]PIE: Play in editor total start time 0.068 seconds.
+[2021.10.27-19.42.57:381][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.42.57:381][405]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.42.57:381][405]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.42.57:381][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.42.57:392][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.42.57:406][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.42.57:425][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.42.57:426][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.42.57:426][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.42.57:441][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.10.27-19.42.57:468][406]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.10.27-19.42.59:053][594]Cmd: TRANSACTION UNDO
+[2021.10.27-19.42.59:053][594]LogEditorTransaction: Undo Move Actors
+[2021.10.27-19.43.08:345][658]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.27-19.43.08:348][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.27-19.43.08:349][658]PIE: New page: PIE session: TopDownExampleMap (Oct 27, 2021, 11:43:08 AM)
+[2021.10.27-19.43.08:349][658]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.43.08:357][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008035s)
+[2021.10.27-19.43.08:357][658]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.10.27-19.43.08:358][658]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.10.27-19.43.08:358][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009077s)
+[2021.10.27-19.43.08:381][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.10.27-19.43.08:383][658]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.27-19.43.08:383][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.27-19.43.08:383][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.27-19.43.08:384][658]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.27-19.43.08:384][658]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.27-19.43.08:386][658]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.27-19.43.08:386][658]LogAudioMixer: Display: 1: FrontRight
+[2021.10.27-19.43.08:393][658]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.27-19.43.08:393][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.27-19.43.08:393][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.27-19.43.08:394][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.27-19.43.08:394][658]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.27-19.43.08:394][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.27-19.43.08:394][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.27-19.43.08:394][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.27-19.43.08:394][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.27-19.43.08:394][658]LogInit: FAudioDevice initialized.
+[2021.10.27-19.43.08:394][658]LogAudio: Display: Audio Device (ID: 34) registered with world 'TopDownExampleMap'.
+[2021.10.27-19.43.08:409][658]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.10.27-19.43.08:411][658]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.10.27-15.43.08
+[2021.10.27-19.43.08:411][658]LogWorld: Bringing up level for play took: 0.001357
+[2021.10.27-19.43.08:411][658]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.10.27-19.43.08:413][658]PIE: Server logged in
+[2021.10.27-19.43.08:414][658]PIE: Play in editor total start time 0.066 seconds.
+[2021.10.27-19.43.10:041][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.43.10:041][846]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.10.27-19.43.10:042][846]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.27-19.43.10:042][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.43.10:048][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.27-19.43.10:062][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.27-19.43.10:084][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.27-19.43.10:084][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.43.10:085][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.27-19.43.10:100][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.10.27-19.43.10:126][847]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.10.27-19.43.13:220][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.27-19.43.13:236][195]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownExampleMapA6E1396D469F21B33C3046B1AC4AA6CD.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.10.27-19.43.13:252][195]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.10.27-19.43.13:252][195]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.10.27-19.43.15:914][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.27-19.43.17:075][505]LogSlate: Window 'Save Content' being destroyed
+[2021.10.27-19.43.17:106][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2021.10.27-19.43.17:127][505]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownCharacterB0C4531147FB07E8D21DB3BABAF7B1CC.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.10.27-19.43.17:127][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2021.10.27-19.43.17:149][505]LogSavePackage: Moving '../../../../../../GroupProj/UnrealGroubB/GroupProj/Saved/TopDownController77332A4E455E1B533BA6D3AD4EA2AD6A.tmp' to '../../../../../../GroupProj/UnrealGroubB/GroupProj/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2021.10.27-19.43.17:158][505]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.27-19.43.17:158][505]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.10.27-19.43.17:158][505]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
